@@ -1,0 +1,66 @@
+html {
+    height: 100%;
+}
+body {
+    height: 100%;
+    background-image: url("../images/bg.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+}
+h1{
+    color : white;
+    font-size: 3.4rem;
+    font-family: 'Griffy', cursive;
+    margin: auto;
+    width: 60%;
+    padding: 1rem;
+    text-shadow:3px 3px 3px #669999;
+}
+
+div.footer{
+    color : white;
+    margin: auto;
+    width: 40%;
+    padding: 1rem;
+    margin-left: 19rem;
+    text-shadow:3px 3px 3px #669999;
+    font-family: 'Bree Serif', serif;
+}
+div.article{
+    border-style: solid;
+    border-width: 20px;
+    border-color: white;
+    background-color: #e6eeff;
+    max-width: 600px;
+    width: 80%;
+    margin: auto;
+    opacity: 0.8;
+    margin-top: 3rem;
+    margin-bottom: 2rem;
+}
+div#article1{
+    padding: 1rem;
+    font-size: 1rem;
+}
+
+div#article2{
+    padding: 1rem;
+    font-size: 1rem;
+}
+
+p.date{
+    color: #1a66ff;
+    font-size: 1.3rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    text-transform: uppercase;
+    font-family: 'Bree Serif', serif;
+}
+p.quote{
+    border-left: 5px solid #6699ff;
+    padding: 1rem;
+    font-family: 'Bree Serif', serif;
+}
+h2.title{
+    font-family: 'Bree Serif', serif;
+}
